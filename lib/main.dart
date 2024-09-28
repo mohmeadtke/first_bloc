@@ -6,7 +6,7 @@ import 'package:new_bloc/bloc/counter_bloc.dart';
 void main() {
   runApp(const MainApp());
 }
-
+//learing the clean archeatceer
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
